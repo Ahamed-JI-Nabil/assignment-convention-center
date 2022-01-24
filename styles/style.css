@@ -6,3 +6,19 @@ body{
     font-weight: bold;
     font-size: 22px;    
 }
+.custom-btn{
+    background-color: #f496d262;
+    width: 207px;
+    
+}
+.custom-card{
+    align-content: space-around;
+    height: 480px;
+    border-radius: 20px;
+    background-color: #3F87F5;
+    position: relative;
+}
+.badge-hot{
+        right: 75%;
+
+}
